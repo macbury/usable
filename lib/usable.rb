@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require 'forwardable'
 require_relative "usable/version"
 require_relative "usable/service"
 require_relative "usable/service_failure"
